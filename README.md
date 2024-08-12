@@ -38,4 +38,9 @@ Each case in the switch statement calls the appropriate function and passes the 
 The loop continues to display the menu and process user input until the user selects the exit option (choice `0`). At that point, the loop terminates, and the program exits gracefully by returning `0` from the `main` function, indicating successful execution.
 
 
+**Use of Standard Design Patterns :**
+
+**Command Pattern**
+The Command Pattern is used to encapsulate all the details of a request as an object, thereby allowing users to parameterize clients with queues, requests, and operations. This pattern decouples the sender of a request from its receiver, which can be beneficial in handling operations and actions within a program.
+
 
