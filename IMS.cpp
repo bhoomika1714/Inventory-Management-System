@@ -1,3 +1,6 @@
+
+// INVENTORY MANAGEMENT SYSTEM IMPLEMENTATION IN C++
+
 #include <iostream>
 #include <string>
 #include <vector>
