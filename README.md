@@ -1,5 +1,5 @@
 # Inventory-Management-System
-**Problem Definition (Description)**
+**Problem Definition (Description) :**
 The project aims to develop a command-line interface (CLI) application designed to manage various system entities, including permissions, roles, users, customers, suppliers, sales, and inventory. The application will facilitate basic CRUD (Create, Read, Update, Delete) operations for each entity. Specifically, it will enable the addition, modification, deletion, and retrieval of permissions by `permission_id`, roles by `role_id`, users by `user_id`, customers by `customer_id`, suppliers by `supplier_id`, sales by `sale_id`, and inventory items by `inventory_id`. This robust system will help users efficiently manage and organize data related to these entities, ensuring streamlined operations within the system.
 
 **List of objects identified**
